@@ -3,4 +3,4 @@ Hola mi nombre es brajean
 Estoy haciendo pruebas para mi segundo
 commit.
 
-Ahora hablaremos de su vida.
+Ahora hablaremos de su vida y obra maestra.
